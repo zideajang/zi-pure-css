@@ -17,7 +17,10 @@
     "url": "https://github.com/zideajang/zi-pure-css/issues"
   },
   "homepage": "https://github.com/zideajang/zi-pure-css#readme",
-  "dependencies": {
-    "gulp": "^4.0.0"
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
   }
 }
