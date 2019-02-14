@@ -1,0 +1,23 @@
+{
+  "name": "zi-pure-css",
+  "version": "1.0.0",
+  "description": "提供一套支持 CSS3 语法的纯 css 框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zideajang/zi-pure-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zideajang/zi-pure-css/issues"
+  },
+  "homepage": "https://github.com/zideajang/zi-pure-css#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
