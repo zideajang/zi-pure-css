@@ -1,2 +1,28 @@
 .wrapper {
   display: grid; }
+
+.wrapper {
+  display: flex; }
+
+.col-em h1 {
+  font-size: 3em;
+  margin-bottom: 2em; }
+
+.col-em p {
+  font-size: 1em; }
+
+.col-rem h1 {
+  font-size: 2.5rem; }
+
+.col-rem p {
+  font-size: 1em; }
+
+.btn-container .btn {
+  border: none;
+  background-color: deepskyblue;
+  color: white;
+  padding: 2em 3em;
+  font-size: .5em; }
+
+.btn-container .btn-small {
+  font-size: .25em; }
