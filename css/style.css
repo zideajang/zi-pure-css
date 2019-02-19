@@ -17,12 +17,17 @@
 .col-rem p {
   font-size: 1em; }
 
-.btn-container .btn {
+.btn {
   border: none;
   background-color: deepskyblue;
   color: white;
   padding: 2em 3em;
-  font-size: .5em; }
+  font-size: 1em;
+  margin: 0 1rem; }
 
-.btn-container .btn-small {
-  font-size: .25em; }
+.btn--small {
+  font-size: .25em;
+  background: deeppink; }
+
+.btn--large {
+  font-size: 1.25em; }
